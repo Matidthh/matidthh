@@ -1,23 +1,29 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f2b1,100:38bdf8&height=220&section=header&text=&fontSize=0" width="100%" />
+<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                     HEADER - FULL WIDTH WAVE                           ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f2b1,100:38bdf8&height=250&section=header&text=Mati&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Discord%20Architect%20%7C%20Chile%20%F0%9F%87%A8%F0%9F%87%B1&descSize=20&descColor=94a3b8&descAlignY=58&animation=fadeIn" width="100%" />
 
 <div align="center">
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F2B1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=110&lines=Hey%2C+soy+Mati+%F0%9F%91%8B;Fullstack+Developer+%7C+Discord+Architect+%F0%9F%A7%99;%2B4+a%C3%B1os+construyendo+en+la+web+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1500&color=00F2B1&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=45&lines=%F0%9F%9A%80+%2B4+a%C3%B1os+construyendo+en+la+web;%F0%9F%8E%AE+Comunidades+de+%2B1.000+personas+gestionadas;%F0%9F%92%BB+Webs%2C+Bots+de+Discord+%26+Servidores;%F0%9F%94%A5+Siempre+aprendiendo%2C+siempre+mejorando" alt="Typing SVG" />
+</a>
 
-<br/>
+<br/><br/>
 
-<!-- PROFILE BADGES -->
+<!-- BADGES PERFIL -->
 <a href="https://github.com/matidtth">
-  <img src="https://komarev.com/ghpvc/?username=matidtth&label=Visitas+al+Perfil&color=00f2b1&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=matidtth&label=VISITAS+AL+PERFIL&color=00f2b1&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/matidtth?tab=followers">
-  <img src="https://img.shields.io/github/followers/matidtth?label=Seguidores&style=for-the-badge&color=38bdf8&labelColor=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/matidtth?label=SEGUIDORES&style=for-the-badge&color=38bdf8&labelColor=0d1117&logo=github" alt="Followers" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/matidtth?tab=repositories">
-  <img src="https://img.shields.io/github/stars/matidtth?label=Estrellas&style=for-the-badge&color=00f2b1&labelColor=0d1117" alt="Stars" />
+  <img src="https://img.shields.io/github/stars/matidtth?label=ESTRELLAS&style=for-the-badge&color=FFD166&labelColor=0d1117&logo=github" alt="Stars" />
 </a>
 
 </div>
@@ -25,38 +31,76 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SOBRE MI -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                          SOBRE MI                                      ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
-<h2 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp; Sobre Mi &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  &nbsp; Sobre Mi &nbsp;
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</h2>
 
 <br/>
 
 <div align="center">
 <table>
 <tr>
+
+<!-- COLUMNA IZQUIERDA: CARD VISUAL -->
 <td width="50%" valign="top">
 
-```yaml
-Nombre:        Mati
-Rol:           Fullstack Developer & Discord Architect
-Ubicacion:     Argentina
-Experiencia:   +4 anios en desarrollo web
-Especialidad:  Sitios web, Bots de Discord, Servidores
-Lema:          "Investigando, Crafteando & Desplegando"
-Estado:        Siempre aprendiendo, siempre mejorando
-```
+<div align="center">
+
+<img src="https://img.shields.io/badge/-WHO_AM_I-00f2b1?style=for-the-badge&labelColor=0d1117" />
+
+<br/><br/>
+
+<img width="20" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" /> &nbsp; **Mati** | Fullstack Developer & Discord Architect
+
+<img width="20" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" /> &nbsp; Chile
+
+<img width="20" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" /> &nbsp; **+4 anios** de experiencia en desarrollo web
+
+<img width="20" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Joystick.png" /> &nbsp; Webs, Bots de Discord & Servidores
+
+<img width="20" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Lifting%20Weights%20Light%20Skin%20Tone.png" /> &nbsp; Comunidades de **+1.000 personas**
+
+<img width="20" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" /> &nbsp; *Siempre aprendiendo, siempre mejorando*
+
+<br/><br/>
+
+<a href="https://instagram.com/tthe.mati">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://discord.com/users/matidtth">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+<a href="mailto:tthe.matii@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+</div>
 
 </td>
+
+<!-- COLUMNA DERECHA: TOP LANGS DONUT -->
 <td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matidtth&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2b1&text_color=94a3b8&langs_count=6" width="100%" alt="Top Languages" />
+<div align="center">
+
+<img src="https://img.shields.io/badge/-TOP_LANGUAGES-38bdf8?style=for-the-badge&labelColor=0d1117" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matidtth&layout=donut&theme=transparent&hide_border=true&bg_color=00000000&title_color=00f2b1&text_color=94a3b8&langs_count=8&size_weight=0.5&count_weight=0.5" width="90%" alt="Top Languages" />
+
+</div>
 
 </td>
+
 </tr>
 </table>
 </div>
@@ -65,214 +109,232 @@ Estado:        Siempre aprendiendo, siempre mejorando
 
 <div align="center">
 
-> Llevo **casi 5 anios** creando **paginas web**, **bots de Discord** y **gestionando servidores de Discord**.
-> Tengo experiencia como **staff** y manejando comunidades de **+1.000 personas con actividad constante**.
-> Sigo aprendiendo y mejorando de mis errores cada dia. El camino nunca termina.
+> Llevo **casi 5 anios** creando **paginas web**, **bots de Discord** y **gestionando servidores**.
+> He sido **staff** y manejado comunidades de **+1.000 personas con actividad constante**.
+> Cada error es una leccion. **Sigo aprendiendo y mejorando cada dia.**
 
-</div>
-
-<br/>
-
-<!-- SOCIAL LINKS -->
-<div align="center">
-  <a href="https://instagram.com/tthe.mati">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>&nbsp;
-  <a href="https://discord.com/users/matidtth">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>&nbsp;
-  <a href="mailto:tthe.matii@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- TECH STACK -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                         EXPERIENCIA & PROYECTOS                        ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
-<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp; Stack Tecnologico &nbsp; <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"></h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+  &nbsp; Experiencia & Proyectos &nbsp;
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+</h2>
 
 <br/>
 
+<!-- METRICAS HERO -->
 <div align="center">
-
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-**Frontend**
+<img src="https://img.shields.io/badge/+4-00f2b1?style=for-the-badge&labelColor=0d1117" height="40"/>
 
-<br/>
+**Anios de Experiencia**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+Desarrollo web fullstack, bots y servidores
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-**Backend**
+<img src="https://img.shields.io/badge/+1.000-38bdf8?style=for-the-badge&labelColor=0d1117" height="40"/>
 
-<br/>
+**Usuarios Gestionados**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Comunidades activas de Discord
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-**Bases de Datos**
+<img src="https://img.shields.io/badge/5-FFD166?style=for-the-badge&labelColor=0d1117" height="40"/>
 
-<br/>
+**Proyectos Completados**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-
-**DevOps & Tools**
-
-<br/>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+Webs, bots & servidores
 
 </td>
 </tr>
 </table>
-
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- PROYECTOS / EXPERIENCIA -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; Experiencia & Proyectos &nbsp; <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></h2>
-
-<br/>
-
+<!-- PROYECTOS DETALLADOS -->
 <div align="center">
-
 <table>
 <tr>
 <td width="100%">
 
-| Proyecto | Rol | Estado |
-|:---------|:----|:------:|
-| <img src="https://img.shields.io/badge/-%23FF6B6B?style=flat-square" width="12" height="12"> **Puro Chile RP** | Co-Owner & Developer General | ![Retirado](https://img.shields.io/badge/Retirado-6c757d?style=flat-square) |
-| <img src="https://img.shields.io/badge/-%2300B4D8?style=flat-square" width="12" height="12"> **RegionesRP** | Developer & Creador de Sitios Web | ![Retirado](https://img.shields.io/badge/Retirado-6c757d?style=flat-square) |
-| <img src="https://img.shields.io/badge/-%2300F2B1?style=flat-square" width="12" height="12"> **Chile Roleplay Community** | Developer & Web Designer | ![Activo](https://img.shields.io/badge/Activo-00f2b1?style=flat-square) |
-| <img src="https://img.shields.io/badge/-%23FFD166?style=flat-square" width="12" height="12"> **Santiago City RP** | Developer & Co-Owner | ![Cerrado](https://img.shields.io/badge/Servidor_Cerrado-dc3545?style=flat-square) |
-| <img src="https://img.shields.io/badge/-%23A855F7?style=flat-square" width="12" height="12"> **Nghty Community** | Creador de Paginas Web | ![Activo](https://img.shields.io/badge/Activo-00f2b1?style=flat-square) |
+<div align="center">
 
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/-MIS_PROYECTOS-00f2b1?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
 <br/>
 
-<div align="center">
+<!-- PROYECTO 1 -->
+<details>
+<summary><b>&#x1F3AE; Puro Chile RP</b> &nbsp; <img src="https://img.shields.io/badge/Co--Owner_&_Developer_General-0d1117?style=flat-square&labelColor=0d1117" /> &nbsp; <img src="https://img.shields.io/badge/RETIRADO-6c757d?style=flat-square" /></summary>
 
-<table>
-<tr>
-<td align="center" width="33%">
+<br/>
 
-<img src="https://img.shields.io/badge/+4-anios_de_experiencia-00f2b1?style=for-the-badge&labelColor=0d1117" />
+> Co-Owner y Developer General del servidor. Participe en el desarrollo general de la comunidad,
+> creacion de sistemas y gestion del equipo. Actualmente retirado del proyecto.
 
-<br/><br/>
+<br/>
+</details>
 
-Desarrollo Web
-Fullstack
+<!-- PROYECTO 2 -->
+<details>
+<summary><b>&#x1F30E; RegionesRP</b> &nbsp; <img src="https://img.shields.io/badge/Developer_&_Web_Creator-0d1117?style=flat-square&labelColor=0d1117" /> &nbsp; <img src="https://img.shields.io/badge/RETIRADO-6c757d?style=flat-square" /></summary>
 
-</td>
-<td align="center" width="33%">
+<br/>
 
-<img src="https://img.shields.io/badge/+1000-usuarios_gestionados-38bdf8?style=for-the-badge&labelColor=0d1117" />
+> Developer y creador de sitios web para la comunidad. Disene y desarrolle las plataformas web
+> del servidor. Actualmente retirado.
 
-<br/><br/>
+<br/>
+</details>
 
-Comunidades de Discord
-con actividad constante
+<!-- PROYECTO 3 -->
+<details>
+<summary><b>&#x1F1E8;&#x1F1F1; Chile Roleplay Community</b> &nbsp; <img src="https://img.shields.io/badge/Developer_&_Web_Designer-0d1117?style=flat-square&labelColor=0d1117" /> &nbsp; <img src="https://img.shields.io/badge/ACTIVO-00f2b1?style=flat-square" /></summary>
 
-</td>
-<td align="center" width="33%">
+<br/>
 
-<img src="https://img.shields.io/badge/5-proyectos_completados-FFD166?style=for-the-badge&labelColor=0d1117" />
+> Developer y creador de sitios web de la comunidad. A cargo del desarrollo web y sistemas
+> digitales del proyecto.
 
-<br/><br/>
+<br/>
+</details>
 
-Webs, Bots & Servidores
-de Discord
+<!-- PROYECTO 4 -->
+<details>
+<summary><b>&#x1F3D9;&#xFE0F; Santiago City RP</b> &nbsp; <img src="https://img.shields.io/badge/Developer_&_Co--Owner-0d1117?style=flat-square&labelColor=0d1117" /> &nbsp; <img src="https://img.shields.io/badge/SERVIDOR_CERRADO-dc3545?style=flat-square" /></summary>
+
+<br/>
+
+> Developer y Co-Owner del servidor. Participe activamente en la creacion y gestion hasta
+> el cierre del servidor.
+
+<br/>
+</details>
+
+<!-- PROYECTO 5 -->
+<details>
+<summary><b>&#x1F525; Nghty Community</b> &nbsp; <img src="https://img.shields.io/badge/Web_Creator-0d1117?style=flat-square&labelColor=0d1117" /> &nbsp; <img src="https://img.shields.io/badge/ACTIVO-00f2b1?style=flat-square" /></summary>
+
+<br/>
+
+> Creador de paginas web para la comunidad. Encargado del diseno y desarrollo de todas
+> las plataformas web del proyecto.
+
+<br/>
+</details>
 
 </td>
 </tr>
 </table>
-
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- GITHUB STATS -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                         TECH STACK                                     ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
-<h2 align="center"><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="28"> &nbsp; Estadisticas de GitHub &nbsp; <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="28"></h2>
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
+  &nbsp; Stack Tecnologico &nbsp;
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
+</h2>
+
+<br/>
+
+<!-- SKILL ICONS - VISUAL Y LIMPIO -->
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,discordjs,postgres,mongodb,mysql,docker&theme=dark" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
+
+</div>
+
+<br/>
+
+<!-- CATEGORIAS EN BADGES -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/FRONTEND-00f2b1?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/BACKEND-38bdf8?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/DATABASES-FFD166?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/DEVOPS-a855f7?style=for-the-badge&labelColor=0d1117" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                         GITHUB STATS                                   ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="28">
+  &nbsp; Estadisticas de GitHub &nbsp;
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="28">
+</h2>
 
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=matidtth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2b1&icon_color=38bdf8&text_color=94a3b8&rank_icon=github&include_all_commits=true" alt="Mati's GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=matidtth&theme=tokyonight&hide_border=true&background=0d1117&ring=00f2b1&fire=38bdf8&currStreakLabel=00f2b1&sideLabels=94a3b8&dates=94a3b8&currStreakNum=00f2b1&sideNums=38bdf8" alt="Streak Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=matidtth&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=00f2b1&icon_color=38bdf8&text_color=94a3b8&rank_icon=github&include_all_commits=true" alt="Mati's GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=matidtth&theme=transparent&hide_border=true&background=00000000&ring=00f2b1&fire=38bdf8&currStreakLabel=00f2b1&sideLabels=94a3b8&dates=94a3b8&currStreakNum=00f2b1&sideNums=38bdf8" alt="Streak Stats" />
 </div>
 
 <br/>
 
 <!-- ACTIVITY GRAPH - FULL WIDTH -->
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=matidtth&bg_color=0d1117&color=94a3b8&line=00f2b1&point=38bdf8&area=true&area_color=00f2b1&hide_border=true&custom_title=Grafico%20de%20Contribuciones" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=matidtth&bg_color=00000000&color=94a3b8&line=00f2b1&point=38bdf8&area=true&area_color=00f2b1&hide_border=true&custom_title=Grafico%20de%20Contribuciones" alt="Activity Graph" />
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- TROFEOS -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                         TROFEOS                                        ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
-<h2 align="center"><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="28"> &nbsp; Trofeos &nbsp; <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="28"></h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="28">
+  &nbsp; Trofeos &nbsp;
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="28">
+</h2>
 
 <br/>
 
@@ -283,12 +345,11 @@ de Discord
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SNAKE -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                       SNAKE CONTRIBUTIONS                              ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
 <h2 align="center">Mis Contribuciones</h2>
 
@@ -302,31 +363,22 @@ de Discord
   </picture>
 </div>
 
-> **Nota:** Para activar la animacion Snake, crea un workflow en `.github/workflows/snake.yml` en tu repo de perfil con la [GitHub Action de platane/snk](https://github.com/Platane/snk).
+> Para activar la animacion Snake, crea un workflow en `.github/workflows/snake.yml` en tu repo de perfil con la [GitHub Action de platane/snk](https://github.com/Platane/snk).
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- LO QUE ME DEFINE -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                         QUOTE & FOOTER                                 ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
 <br/>
 
 <div align="center">
 
-```
- ______________________________________________________________________________________________
-|                                                                                              |
-|    "No busco ser el mejor, busco ser mejor que ayer.                                         |
-|     Cada error es una leccion, cada proyecto es un paso adelante."                           |
-|                                                                                              |
-|                                                                   - Mati                     |
-|______________________________________________________________________________________________|
-```
+<img src="https://img.shields.io/badge/%22No_busco_ser_el_mejor,_busco_ser_mejor_que_ayer.%22-0d1117?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
@@ -339,28 +391,26 @@ de Discord
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- FOOTER -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
+<!-- FOOTER REDES -->
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Gracias_por_visitar_mi_perfil-00f2b1?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/GRACIAS_POR_VISITAR_MI_PERFIL-00f2b1?style=for-the-badge&labelColor=0d1117" />
 
-  <br/><br/>
+<br/><br/>
 
-  <a href="https://instagram.com/tthe.mati">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>&nbsp;
-  <a href="https://discord.com/users/matidtth">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>&nbsp;
-  <a href="mailto:tthe.matii@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+<a href="https://instagram.com/tthe.mati">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+</a>&nbsp;
+<a href="https://discord.com/users/matidtth">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>&nbsp;
+<a href="mailto:tthe.matii@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
 </div>
 
 <br/>
 
+<!-- WAVE FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:00f2b1,100:0d1117&height=150&section=footer&text=Siempre%20aprendiendo%2C%20siempre%20mejorando.&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%" />
