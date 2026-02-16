@@ -1,65 +1,62 @@
-<!-- HEADER ANIMADO TIPO MÁQUINA DE ESCRIBIR -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F2B1&center=true&vCenter=true&width=500&lines=Hola!+Soy+Mati+👋;Fullstack+Developer;Discord+Bot+Expert;Creador+de+Experiencias+Web" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0_00f2b1_100_020617&height=250&text=Mati.dev&fontSize=90&fontAlignY=45&desc=Architecting%20Scalable%20Digital%20Realms&descAlignY=65&descSize=20&animation=fadeIn" width="100%" alt="Header" />
 </div>
 
-<!-- REDES SOCIALES CON ESTILO -->
+<br />
+
 <div align="center">
-  <a href="https://instagram.com/tthe.mati" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://discord.com/users/matidtth" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="mailto:tthe.matii@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://instagram.com/tthe.mati"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://discord.com/users/matidtth"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="mailto:tthe.matii@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/matidtth"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
 </div>
 
-<br/>
-
-<!-- INTRODUCCIÓN -->
 <div align="center">
-   <b><i>"Transformando café en código limpio y escalable." ☕</i></b>
+  <h3>⚡ Engineering the Future ⚡</h3>
+  <code>React</code> • <code>TypeScript</code> • <code>Node.js</code> • <code>Discord.js</code>
 </div>
 
-<br/>
+<br />
 
-<!-- ARSENAL TECNOLÓGICO -->
-<h3 align="center">🚀 Mi Arsenal Tecnológico</h3>
+<!-- 🛠 STACK TECNOLÓGICO ORGANIZADO -->
+<h2 align="center">🛠 Tech Stacks & Tools</h2>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,vite,nodejs,express,postgres,mongodb,firebase,tailwind,css,html,git,github,vscode,discord,figma&perline=9&theme=dark" />
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,ts,js,html,css,tailwind,figma&theme=dark" />
+  <br />
+  <br />
+  <!-- Backend & BD -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase,supabase,prisma&theme=dark" />
+  <br />
+  <br />
+  <!-- Herramientas -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,discord,postman,docker,linux,vercel&theme=dark" />
 </div>
 
-<br/>
+<br />
 
-<!-- ESTADÍSTICAS LADO A LADO (BENTO GRID) -->
+<!-- 📊 ESTADÍSTICAS TRANSPARENTES (Seamless) -->
+<h2 align="center">📊 The Metrics</h2>
+
 <div align="center">
-  <table style="border: none; background-color: transparent;">
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=matidtth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2b1&icon_color=38bdf8&text_color=94a3b8&height=180" alt="Mati's Stats" />
-      </td>
-      <td align="center" style="border: none;">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matidtth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2b1&text_color=94a3b8&height=180" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=matidtth&show_icons=true&hide_border=true&title_color=00f2b1&icon_color=00f2b1&text_color=94a3b8&bg_color=00000000" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matidtth&layout=compact&hide_border=true&title_color=00f2b1&text_color=94a3b8&bg_color=00000000" height="150" alt="languages graph" />
 </div>
 
-<!-- RACHA DE CONTRIBUCIONES -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matidtth&theme=tokyonight&hide_border=true&background=0D1117&ring=00f2b1&fire=00f2b1&currStreakLabel=00f2b1" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matidtth&hide_border=true&background=00000000&ring=00f2b1&fire=00f2b1&currStreakLabel=00f2b1&sideLabels=94a3b8&dates=94a3b8" alt="streak graph" />
 </div>
 
-<br/>
+<br />
 
-<!-- VISITAS AL PERFIL + GIF FINAL -->
+<!-- 🐍 SNAKE ANIMATION (Opcional, requiere setup) -->
+<!-- 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=matidtth&style=flat-square&color=00f2b1&label=VISTAS+AL+PERFIL" alt="Profile Views" />
-  <br/>
-  <br/>
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50">
+  <img src="https://github.com/matidtth/matidtth/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+</div> 
+-->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2b1&height=100&section=footer" width="100%" />
 </div>
