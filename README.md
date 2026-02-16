@@ -86,16 +86,41 @@
 
 </td>
 
-<!-- COLUMNA DERECHA: TOP LANGS DONUT -->
+<!-- COLUMNA DERECHA: STATS RAPIDAS -->
 <td width="50%" valign="top">
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-TOP_LANGUAGES-38bdf8?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/-EXPERIENCIA-38bdf8?style=for-the-badge&labelColor=0d1117" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matidtth&layout=donut&theme=transparent&hide_border=true&bg_color=00000000&title_color=00f2b1&text_color=94a3b8&langs_count=8&size_weight=0.5&count_weight=0.5" width="90%" alt="Top Languages" />
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/+4_ANIOS-00f2b1?style=flat-square&labelColor=0d1117" height="30"/>
+<br/><sub>Desarrollo Web</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/+1K-38bdf8?style=flat-square&labelColor=0d1117" height="30"/>
+<br/><sub>Usuarios Gestionados</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/5-FFD166?style=flat-square&labelColor=0d1117" height="30"/>
+<br/><sub>Proyectos Completados</sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/STAFF-a855f7?style=flat-square&labelColor=0d1117" height="30"/>
+<br/><sub>Experiencia en Gestion</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=matidtth&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=00f2b1&icon_color=38bdf8&text_color=94a3b8&rank_icon=github&include_all_commits=true&hide_title=true&hide_rank=true&card_width=300" alt="Quick Stats" />
 
 </div>
 
@@ -351,7 +376,11 @@ Webs, bots & servidores
 <!-- ║                       SNAKE CONTRIBUTIONS                              ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
-<h2 align="center">Mis Contribuciones</h2>
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28">
+  &nbsp; Mis Contribuciones &nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28">
+</h2>
 
 <br/>
 
@@ -363,7 +392,12 @@ Webs, bots & servidores
   </picture>
 </div>
 
-> Para activar la animacion Snake, crea un workflow en `.github/workflows/snake.yml` en tu repo de perfil con la [GitHub Action de platane/snk](https://github.com/Platane/snk).
+<!--
+  NOTA: Para activar la animacion Snake necesitas crear un GitHub Action.
+  1. Ve a tu repo matidtth/matidtth
+  2. Crea el archivo .github/workflows/snake.yml
+  3. Usa la action de platane/snk: https://github.com/Platane/snk
+-->
 
 <br/>
 
