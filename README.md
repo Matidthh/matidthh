@@ -1,11 +1,11 @@
 ````md
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,25:0f172a,50:111827,75:030712,100:000000&text=MATIDTHH&fontColor=e5e7eb&fontSize=58&fontAlignY=38&desc=Backend%20Systems%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20Security%20%E2%80%A2%20Architecture&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:000000,15:020617,40:0f172a,75:111827,100:000000&text=MATIDTHH&fontColor=ffffff&fontSize=62&fontAlignY=38&animation=fadeIn&desc=Backend%20Systems%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20Architecture%20%E2%80%A2%20Security&descAlignY=58&descSize=18"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=1000&color=9CA3AF&center=true&vCenter=true&random=false&width=900&lines=Designing+scalable+backend+systems;Infrastructure+and+automation+enthusiast;Security-minded+developer;Building+reliable+architectures;Linux+%E2%80%A2+Docker+%E2%80%A2+PostgreSQL+%E2%80%A2+Python" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=1200&color=9CA3AF&center=true&vCenter=true&random=false&width=1000&lines=Designing+secure+and+scalable+systems;Backend+engineering+and+infrastructure;Automation+%E2%80%A2+Networking+%E2%80%A2+Architecture;Building+modern+platforms+and+digital+systems;Linux+%E2%80%A2+Docker+%E2%80%A2+PostgreSQL+%E2%80%A2+Python"/>
 
 <br><br>
 
@@ -17,45 +17,52 @@
 
 <div align="center">
 
+# SYSTEM PROFILE
+
+</div>
+
 ```bash
-> whoami
+> engineer profile initialized
 
-young backend and infrastructure-focused developer
-passionate about scalable systems, automation and security
+name        : Mati
+focus       : backend systems & infrastructure
+role        : systems / backend developer
+interests   : architecture, security, automation, scalability
 
-building:
-• backend platforms
-• infrastructure systems
-• secure APIs
-• database architectures
-• automation tools
-• scalable services
+currently building:
+- infrastructure platforms
+- backend ecosystems
+- secure APIs
+- automation systems
+- database architectures
+- scalable digital services
+
+philosophy:
+"clean architecture, scalable systems and reliable infrastructure"
 ````
 
+---
+
+# ENGINEERING DOMAINS
+
+<div align="center">
+
+| Backend Engineering |   Infrastructure   |      Security      |  Architecture |
+| :-----------------: | :----------------: | :----------------: | :-----------: |
+|     API Systems     | Linux Environments |      Hardening     | System Design |
+|    Authentication   |  Docker Ecosystems |   Access Control   |  Scalability  |
+|    Async Services   |     Monitoring     |     Networking     |  Reliability  |
+|    Database Logic   |     Automation     | Secure Deployments |  Performance  |
+
 </div>
 
 ---
 
-# Architecture & Engineering Focus
+# CORE TECHNOLOGIES
 
 <div align="center">
 
-| Backend Systems | Infrastructure |    Security    |    DevOps   |
-| :-------------: | :------------: | :------------: | :---------: |
-|       APIs      |      Linux     |    Hardening   |    CI/CD    |
-|    Databases    |     Docker     |   Networking   |  Automation |
-|  Authentication |   Monitoring   | Access Control | Deployments |
-|  System Design  |  Orchestration | Secure Systems | Reliability |
-
-</div>
-
----
-
-# Core Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,postgres,docker,linux,bash,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,postgres,docker,linux,bash,git,github,vscode&theme=dark"/>
 
 <br><br>
 
@@ -63,60 +70,84 @@ building:
 <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Security-0D1117?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 <img src="https://img.shields.io/badge/Infrastructure-0D1117?style=for-the-badge&logo=datadog&logoColor=white"/>
+<img src="https://img.shields.io/badge/Security-0D1117?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
 </div>
 
 ---
 
-# Current Interests
+# CURRENT ENGINEERING INTERESTS
 
 ```txt
-Backend Architecture
-Database Engineering
-Infrastructure Automation
-Linux Systems
-Networking
-Secure Backend Development
-Distributed Systems
-Performance Optimization
-System Reliability
-DevOps Practices
+backend architecture
+distributed systems
+database optimization
+infrastructure automation
+secure backend development
+linux environments
+networking fundamentals
+system reliability
+performance engineering
+devops workflows
+api ecosystems
+platform scalability
 ```
 
 ---
 
-# Featured Engineering Areas
+# FEATURED AREAS
+
+## BACKEND SYSTEMS
+
+```txt
+• secure authentication systems
+• scalable REST APIs
+• asynchronous architectures
+• database-centric applications
+• backend service optimization
+• role and permission systems
+```
+
+## INFRASTRUCTURE & AUTOMATION
+
+```txt
+• dockerized environments
+• deployment automation
+• linux server environments
+• infrastructure monitoring
+• CI/CD workflows
+• orchestration and tooling
+```
+
+## SECURITY & RELIABILITY
+
+```txt
+• backend hardening
+• networking concepts
+• access management
+• secure communication
+• infrastructure protection
+• resilient system design
+```
+
+---
+
+# GITHUB ANALYTICS
 
 <div align="center">
 
-| System Engineering            | Infrastructure         | Backend               |
-| ----------------------------- | ---------------------- | --------------------- |
-| Secure authentication systems | Containerized services | API architecture      |
-| Database optimization         | Linux environments     | Backend services      |
-| Permission systems            | Monitoring systems     | Async systems         |
-| Automation workflows          | Deployment pipelines   | High-performance APIs |
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=Matidthh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&icon_color=FFFFFF"/>
+
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matidthh&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF"/>
 
 </div>
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matidthh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&icon_color=FFFFFF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matidthh&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF"/>
-
-</div>
-
----
-
-# Contribution Graph
+# CONTRIBUTION GRAPH
 
 <div align="center">
 
@@ -126,26 +157,26 @@ DevOps Practices
 
 ---
 
-# System Status
+# INFRASTRUCTURE STATUS
 
 <div align="center">
 
 ```bash
-[ infrastructure status ]
+[ infrastructure monitor ]
 
-backend systems      ■■■■■■■■■■■■ online
-database systems     ■■■■■■■■■■■■ stable
-security layer       ■■■■■■■■■■■□ monitoring
-automation           ■■■■■■■■■■■■ active
-networking           ■■■■■■■■■■□□ expanding
-architecture          ■■■■■■■■■■■□ evolving
+backend systems        ■■■■■■■■■■■■ operational
+database services      ■■■■■■■■■■■■ stable
+security layer         ■■■■■■■■■■■□ monitoring
+automation services    ■■■■■■■■■■■■ active
+network infrastructure ■■■■■■■■■■□□ expanding
+architecture systems   ■■■■■■■■■■■□ evolving
 ```
 
 </div>
 
 ---
 
-# Contact
+# DIGITAL PRESENCE
 
 <div align="center">
 
@@ -157,6 +188,10 @@ architecture          ■■■■■■■■■■■□ evolving
 <img src="https://img.shields.io/badge/Email-tthe.matii%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://softium.xyz">
+<img src="https://img.shields.io/badge/Softium-softium.xyz-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
 </div>
 
 ---
@@ -164,14 +199,14 @@ architecture          ■■■■■■■■■■■□ evolving
 <div align="center">
 
 ```txt
-Designing scalable systems with security, reliability and clean architecture in mind.
+building scalable systems with security, reliability and architecture in mind
 ```
 
 </div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,50:0f172a,100:020617"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,30:020617,60:111827,100:000000"/>
 
 ```
 ```
