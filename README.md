@@ -1,110 +1,106 @@
 ````md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:020617&height=260&section=header&text=Backend%20%26%20Infrastructure%20Engineer&fontSize=42&fontColor=e5e7eb&animation=fadeIn&fontAlignY=38&desc=Scalable%20Systems%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20Security%20%E2%80%A2%20Automation&descAlignY=58&descSize=18" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,25:0f172a,50:111827,75:030712,100:000000&text=MATIDTHH&fontColor=e5e7eb&fontSize=58&fontAlignY=38&desc=Backend%20Systems%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20Security%20%E2%80%A2%20Architecture&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=700&lines=Backend+Systems+Developer;Infrastructure+%26+Architecture+Enthusiast;Automation+%7C+Security+%7C+Networking;Building+Scalable+Platforms" />
-
-</div>
-
----
-
-# `whoami`
-
-```bash
-> young backend & infrastructure-focused developer
-> passionate about scalable architectures, security and automation
-> building secure systems, APIs, backend platforms and infrastructure tools
-> focused on reliability, performance and clean engineering
-````
-
----
-
-# Technical Focus
-
-```txt
-Backend Engineering
-├── REST APIs
-├── Authentication Systems
-├── Database Design
-├── Distributed Systems
-└── High-performance Backend Services
-
-Infrastructure & DevOps
-├── Linux Systems
-├── Docker Environments
-├── CI/CD Pipelines
-├── Monitoring & Automation
-└── Secure Deployments
-
-Security & Networking
-├── Infrastructure Security
-├── Networking Fundamentals
-├── Access Control
-├── System Hardening
-└── Backend Protection
-```
-
----
-
-# Stack & Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,postgres,docker,linux,git,github,bash,vscode,cloudflare" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=1000&color=9CA3AF&center=true&vCenter=true&random=false&width=900&lines=Designing+scalable+backend+systems;Infrastructure+and+automation+enthusiast;Security-minded+developer;Building+reliable+architectures;Linux+%E2%80%A2+Docker+%E2%80%A2+PostgreSQL+%E2%80%A2+Python" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Backend-0f172a?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Infrastructure-020617?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Security-111827?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<img src="https://img.shields.io/badge/Automation-020617?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Networking-0f172a?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/DevOps-111827?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=Matidthh&style=for-the-badge&color=111827&labelColor=000000"/>
 
 </div>
 
 ---
 
-# Featured Projects
+<div align="center">
 
-## Infrastructure & Systems
+```bash
+> whoami
 
-### Secure Backend Platform
+young backend and infrastructure-focused developer
+passionate about scalable systems, automation and security
+
+building:
+• backend platforms
+• infrastructure systems
+• secure APIs
+• database architectures
+• automation tools
+• scalable services
+````
+
+</div>
+
+---
+
+# Architecture & Engineering Focus
+
+<div align="center">
+
+| Backend Systems | Infrastructure |    Security    |    DevOps   |
+| :-------------: | :------------: | :------------: | :---------: |
+|       APIs      |      Linux     |    Hardening   |    CI/CD    |
+|    Databases    |     Docker     |   Networking   |  Automation |
+|  Authentication |   Monitoring   | Access Control | Deployments |
+|  System Design  |  Orchestration | Secure Systems | Reliability |
+
+</div>
+
+---
+
+# Core Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,postgres,docker,linux,bash,git,github,vscode&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Security-0D1117?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Infrastructure-0D1117?style=for-the-badge&logo=datadog&logoColor=white"/>
+<img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+</div>
+
+---
+
+# Current Interests
 
 ```txt
-Scalable backend architecture focused on:
-• API security
-• PostgreSQL optimization
-• authentication systems
-• infrastructure monitoring
-• performance and scalability
+Backend Architecture
+Database Engineering
+Infrastructure Automation
+Linux Systems
+Networking
+Secure Backend Development
+Distributed Systems
+Performance Optimization
+System Reliability
+DevOps Practices
 ```
 
-### Discord Infrastructure Systems
+---
 
-```txt
-Advanced Discord backend systems:
-• automation
-• moderation architecture
-• database integration
-• role systems
-• secure API communication
-```
+# Featured Engineering Areas
 
-### Infrastructure Automation
+<div align="center">
 
-```txt
-Linux and Docker-based infrastructure tools:
-• deployment automation
-• containerized services
-• system orchestration
-• monitoring utilities
-```
+| System Engineering            | Infrastructure         | Backend               |
+| ----------------------------- | ---------------------- | --------------------- |
+| Secure authentication systems | Containerized services | API architecture      |
+| Database optimization         | Linux environments     | Backend services      |
+| Permission systems            | Monitoring systems     | Async systems         |
+| Automation workflows          | Deployment pipelines   | High-performance APIs |
+
+</div>
 
 ---
 
@@ -112,51 +108,53 @@ Linux and Docker-based infrastructure tools:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=9ca3af&icon_color=9ca3af" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matidthh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF&icon_color=FFFFFF"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=9ca3af" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matidthh&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF"/>
 
 </div>
 
 ---
 
-# Contribution Activity
+# Contribution Graph
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=9ca3af&line=ffffff&point=9ca3af&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Matidthh&bg_color=0D1117&color=9CA3AF&line=FFFFFF&point=9CA3AF&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# Engineering Philosophy
+# System Status
+
+<div align="center">
 
 ```bash
-design scalable systems
-prioritize security
-automate repetitive tasks
-build reliable infrastructure
-optimize performance
-maintain clean architecture
+[ infrastructure status ]
+
+backend systems      ■■■■■■■■■■■■ online
+database systems     ■■■■■■■■■■■■ stable
+security layer       ■■■■■■■■■■■□ monitoring
+automation           ■■■■■■■■■■■■ active
+networking           ■■■■■■■■■■□□ expanding
+architecture          ■■■■■■■■■■■□ evolving
 ```
+
+</div>
 
 ---
 
-# Connect
+# Contact
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Matidthh">
+<img src="https://img.shields.io/badge/GitHub-Matidthh-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:your@email.com">
-  <img src="https://img.shields.io/badge/Contact-020617?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:tthe.matii@gmail.com">
+<img src="https://img.shields.io/badge/Email-tthe.matii%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -166,22 +164,14 @@ maintain clean architecture
 <div align="center">
 
 ```txt
-[ SYSTEM STATUS ]
-
-Backend Systems      ████████████  Stable
-Infrastructure       ████████████  Operational
-Security             ███████████░  Monitoring
-Automation            ████████████  Active
-Networking            ██████████░░  Expanding
+Designing scalable systems with security, reliability and clean architecture in mind.
 ```
 
 </div>
 
 <br>
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,50:0f172a,100:020617"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:111827,100:0f172a&height=120&section=footer"/>
-
-</div>
+```
 ```
